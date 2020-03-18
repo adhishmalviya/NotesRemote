@@ -1,0 +1,11 @@
+
+
+#1.
+Note the difference between (x==y) and (x===y).
+Comparing two JavaScript objects will always return false.
+
+
+#2. If you access a method without the () parentheses, it will return the function definition.
+
+
+#3. JavaScript Numbers are Always 64-bit Floating Point
