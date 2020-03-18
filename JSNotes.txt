@@ -9,3 +9,12 @@ Comparing two JavaScript objects will always return false.
 
 
 #3. JavaScript Numbers are Always 64-bit Floating Point
+
+
+#4 Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
+Variables and constants declared with let or const are not hoiste
+
+#5. 
+The keyword const is a little misleading.
+It does NOT define a constant value. It defines a constant reference to a value.
+Because of this, we cannot change constant primitive values, but we can change the properties of constant objects.
