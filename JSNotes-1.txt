@@ -1,0 +1,27 @@
+
+
+#1.
+Note the difference between (x==y) and (x===y).
+Comparing two JavaScript objects will always return false.
+
+
+#2. If you access a method without the () parentheses, it will return the function definition.
+
+
+#3. JavaScript Numbers are Always 64-bit Floating Point
+
+#4. Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
+let and const are not hoisted, using them before declaring will cause refrenece error.
+
+
+#5. The keyword const is a little misleading.
+
+It does NOT define a constant value. It defines a constant reference to a value.
+
+Because of this, we cannot change constant primitive values, but we can change the properties of constant objects.
+
+
+
+###########################################################################################################
+Things to learn
+Upstream Branch.
